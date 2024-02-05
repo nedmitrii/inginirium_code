@@ -13,7 +13,7 @@ class Triangle:
         self.b = int(input())
         self.c = int(input())
     def per(self):
-       p = self.a + self.b + self.c
+        p = self.a + self.b + self.c
         return p
 
     def square(self):
